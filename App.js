@@ -1,14 +1,13 @@
 import React from "react"
-import Navbar from "./components/Navbar"
+import Header from "./components/header"
 import Card from "./components/Card"
 
 
 export default function App() {
-            // <Hero />
     return (
         <div>
-            <Navbar />
-            <Card />
+            <Header />
+
         </div>
     )
 }
