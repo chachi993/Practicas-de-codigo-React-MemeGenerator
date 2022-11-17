@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # co2094669b9fe6bf481f857ae
 
 Quick start:
@@ -27,3 +28,7 @@ The Frontend Developer Career Path aims to teach you everything you need to beco
 
 Happy Coding!
 # Practicas-de-codigo-React-MemeGenerator
+=======
+# Practicas-de-codigo-React-travelApp
+# Practicas-de-codigo-React-TravelApp
+>>>>>>> 1f0ab8a6921bc185e5569c546a6ae28e60e3a974
